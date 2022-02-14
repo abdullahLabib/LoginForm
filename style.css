@@ -1,0 +1,158 @@
+* {
+  font-family: "Cairo", sans-serif;
+  background-color: #f7f7f7;
+}
+.head1 {
+  margin: 0px 50px 0px 0px;
+}
+.pHead1 {
+  margin-top: -20px;
+  /* color: #979dac; */
+  color: #949593;
+}
+.log {
+  background-color: #3db4b7;
+  color: #fff;
+  border-radius: 4px;
+  width: 200px;
+  font-size: 17px;
+  margin-top: -20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+}
+.head2 {
+  margin: 45px 170px 0px 0px;
+}
+.pHead2 {
+  margin-top: -20px;
+  color: #949593;
+}
+.head3 {
+  margin: 0px 230px 0px 0px;
+}
+.pHead3 {
+  margin-top: -20px;
+  color: #949593;
+}
+.icon_1 {
+  position: absolute;
+  width: 50px;
+  margin: 20px -60px 0px 0px;
+}
+.icon_2 {
+  position: absolute;
+  width: 48px;
+  margin: 135px -60px 0px 0px;
+  opacity: 0.7;
+}
+.icon_3 {
+  position: absolute;
+  margin: 41px -50px 0px 0px;
+  width: 45px;
+}
+form{
+    background-color: #fff;
+}
+.form {
+  position: absolute;
+  margin: -590px 1000px 0px 0px;
+  background-color: #fff;
+  height: 750px;
+  width: 570px;
+  border: solid #dbdbdb 1px;
+  border-radius: 4px;
+  font-size: 17px;
+}
+.Head4 {
+  margin: 40px 30px 0px 0px;
+  background-color: #fff;
+}
+.email {
+  position: absolute;
+  margin: 40px 75px 0px 0px;
+  border-radius: 4px;
+  border: 1px solid #dbdbdb;
+  background-color: #fff;
+  width: 430px;
+  height: 50px;
+  font-size: 19px;
+  content: 25px;
+  padding-right: 30px;
+}
+.pass {
+  position: absolute;
+  margin: 150px 75px 0px 0px;
+  border-radius: 4px;
+  border: 1px solid #dbdbdb;
+  background-color: #fff;
+  width: 430px;
+  height: 50px;
+  font-size: 19px;
+  padding-right: 30px;
+}
+.check {
+  position: absolute;
+  margin: 270px 44px 0px 0px;
+  height: 23px;
+  width: 23px;
+  background-color: #eee;
+}
+.a1 {
+  position: absolute;
+  margin: 277px 300px 0px 0px;
+  background-color: #fff;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.label1 {
+  position: absolute;
+  margin: 265px 76px 0px 0px;
+  background-color: #fff;
+  color: #949593;
+  font-weight: bold;
+}
+.icon_mail {
+  position: absolute;
+  margin: 40px 24px 0px 0px;
+  width: 25px;
+  border-radius: 4px;
+  border: 1px solid #dbdbdb;
+  background-color: #fff;
+  height: 32px;
+  width: 30px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+.icon_pass {
+  position: absolute;
+  margin: 150px 24px 0px 0px;
+  width: 25px;
+  border-radius: 4px;
+  border: 1px solid #dbdbdb;
+  background-color: #fff;
+  height: 32px;
+  width: 30px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+button {
+  position: absolute;
+  margin: 360px 37px 0px 0px;
+  background-color: #3db4b7;
+  color: #fff;
+  border-radius: 8px;
+  border: 1px solid #3db4b7;
+  width: 500px;
+  height: 70px;
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 3px solid #2e8789;
+  border-left: 1px solid #2e8789;
+  border-right: 1px solid #2e8789;
+}
